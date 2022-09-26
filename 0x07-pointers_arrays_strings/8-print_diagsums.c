@@ -1,5 +1,4 @@
 #include "main.h"
-
 #include <stdio.h>
 
 
@@ -18,7 +17,6 @@ int i;
 int sum1, sum2;
 sum1 = 0;
 sum2 = 0;
-
 i = 0;
 while (i < size) /*number repetitions*/
 {
